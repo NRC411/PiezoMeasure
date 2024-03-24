@@ -1,0 +1,1 @@
+Timestamp: 2024-03-24 12:54:34, Voltage: 4.679 V, Current: 9.358e-06 A, Power: 4.37861e-05 W
