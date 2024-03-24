@@ -1,0 +1,2 @@
+Timestamp: 2024-03-25 00:22:57, Average Voltage: 0.916 V, Average Current: 1.832e-06 A, Average Power: 1.67811e-06 W, Total Power: 0.000240281 W*h
+
