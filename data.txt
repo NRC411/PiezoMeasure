@@ -476,3 +476,7 @@ Timestamp: 2024-03-25 09:15:03, Voltage: 4.621 V, Current: 9.242e-06 A, Power: 4
 Timestamp: 2024-03-25 09:15:03, Voltage: 3.159 V, Current: 6.318e-06 A, Power: 1.99586e-05 W
 Timestamp: 2024-03-25 09:15:05, Voltage: 3.597 V, Current: 7.194e-06 A, Power: 2.58768e-05 W
 Timestamp: 2024-03-25 09:15:05, Voltage: 3.1 V, Current: 6.2e-06 A, Power: 1.922e-05 W
+Timestamp: 2024-03-25 09:15:55, Voltage: 3.217 V, Current: 6.434e-06 A, Power: 2.06982e-05 W
+Timestamp: 2024-03-25 09:15:55, Voltage: 3.597 V, Current: 7.194e-06 A, Power: 2.58768e-05 W
+Timestamp: 2024-03-25 09:15:55, Voltage: 3.831 V, Current: 7.662e-06 A, Power: 2.93531e-05 W
+Timestamp: 2024-03-25 09:15:55, Voltage: 3.1 V, Current: 6.2e-06 A, Power: 1.922e-05 W
