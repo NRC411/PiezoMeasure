@@ -102,3 +102,5 @@ Timestamp: 2024-03-25 09:07:06, Average Voltage (With Zeros): 0.185997 V, Averag
 
 Timestamp: 2024-03-25 09:08:06, Average Voltage (With Zeros): 0.0215631 V, Average Power (With Zeros): 9.29938e-10 W, Average Voltage (Without Zeros): 3.159 V, Average Power (Without Zeros): 1.99586e-05 W, Total Power: 3.99719e-05 W*h
 
+Timestamp: 2024-03-25 09:09:06, Average Voltage (With Zeros): 0 V, Average Power (With Zeros): 0 W, Average Voltage (Without Zeros): 0 V, Average Power (Without Zeros): 0 W, Total Power: 0 W*h
+
